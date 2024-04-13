@@ -1,0 +1,7 @@
+train: /media/minkiri/T7 Shield/clothoid/morai/train_data/images/train
+val: /media/minkiri/T7 Shield/clothoid/morai/train_data/images/val
+
+
+nc: 1
+
+names: ['ERP42']

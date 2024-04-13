@@ -1,0 +1,7 @@
+train: /home/mgkim/scale_car_yolov5/src/train_data/images/train
+val: /home/mgkim/scale_car_yolov5/src/train_data/images/val
+
+
+nc: 1
+
+names: ['ERP42']
